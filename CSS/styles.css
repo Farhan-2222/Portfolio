@@ -35,19 +35,19 @@ hr {
 a {
   margin-top : 100px;
   color : #11999E;
-  font-family: 'Montserrat', sans-serif;
-  margin: 0 20px 10px;
-  text-decoration: none;
+  font-family : 'Montserrat', sans-serif;
+  margin : 0 20px 10px;
+  text-decoration : none;
 }
 
 a:hover {
-  color: #EAF6F6;
+  color : #EAF6F6;
 }
 
 u {
-  font-weight: lighter;
-  text-decoration: none;
-  border-bottom: 2px solid;
+  font-weight : lighter;
+  text-decoration : none;
+  border-bottom : 2px solid;
 }
 
 .top-container {
