@@ -54,15 +54,15 @@ u {
   margin : 0;
   background-color : #E4F9F5;
   position : relative;
-  bottom: 70px;
+  bottom : 70px;
 }
 
 .top-cloud {
-  position: relative;
-  left: 18.75rem;
-  top: 3.75rem;
-  height: 15%;
-  width: 15%;
+  position : relative;
+  left : 18.75rem;
+  top : 3.75rem;
+  height : 15%;
+  width : 15%;
 }
 
 .middle-container {
