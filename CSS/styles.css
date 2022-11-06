@@ -72,12 +72,12 @@ u {
 }
 
 .intro {
-  width: 30%;
-  margin: auto;
+  width : 30%;
+  margin : auto;
 }
 
 .bottom-container {
-  position: relative;
+  position : relative;
   top: 60px;
   background-color: #66BFBF;
   color: #180A0A;
