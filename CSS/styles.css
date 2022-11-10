@@ -108,15 +108,15 @@ u {
 }
 
 .skills {
-  position: relative;
-  bottom: 40px;
+  position : relative;
+  bottom : 40px;
 }
 
 .my-skill {
-  position: relative;
-  top: 35px;
-  font-size: 30px;
-  color: #4FBDBA;
+  position : relative;
+  top : 35px;
+  font-size : 30px;
+  color : #4FBDBA;
 }
 
 
