@@ -126,9 +126,9 @@ u {
   height : auto;
   position : relative;
   bottom : 20px;
-  float: left;
-  margin-right: 10px;
-  margin-top: 20px;
+  float : left;
+  margin-right : 10px;
+  margin-top : 20px;
 }
 
 .skill-second {
