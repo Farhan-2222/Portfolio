@@ -171,7 +171,7 @@ u {
   background : #11cdd4;
   background-image : -webkit-linear-gradient(top, #11cdd4, #11999e);
   background-image : -moz-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image : -ms-linear-gradient(top, #11cdd4, #11999e);
   background-image: -o-linear-gradient(top, #11cdd4, #11999e);
   background-image: linear-gradient(to bottom, #11cdd4, #11999e);
   -webkit-border-radius: 8;
