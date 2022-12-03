@@ -176,7 +176,7 @@ u {
   background-image : linear-gradient(to bottom, #11cdd4, #11999e);
   -webkit-border-radius : 8;
   -moz-border-radius : 8;
-  border-radius: 8px;
+  border-radius : 8px;
   font-family: 'Montserrat', sans-serif;;
   color: #ffffff;
   font-size: 20px;
